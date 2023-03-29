@@ -1,10 +1,10 @@
 # 免费GPT国内镜像列表 (Free GPT Chinese Mirror List)
 
-> 发布网站：未提供
-> 分享站点、站点失效、标注错误，请🐒点此🐒告诉我
-> 联系邮箱：未提供
+> 发布网站：[国内镜像列表发布网址](http://amazon-a.liuniandayun.com/)。<br>
+> 分享站点、站点失效、标注错误，请🐒[点此](https://github.com/gitzboy/testremote/issues)🐒告诉我
 
 ### <small>国内镜像列表</small>
+> 最快的为5⭐️，最慢的为0⭐️。
 - https://poe.com/ （Poe）（⭐️⭐️⭐️⭐️⭐️）
 - https://chatbot.theb.ai/ （BAI聊天机器人）（⭐️⭐️⭐️⭐️⭐️）
 - https://chat9.yqcloud.top/ （YQCloud聊天机器人）（⭐️⭐️⭐️⭐️）
@@ -15,18 +15,49 @@
 - https://chat.wobcw.com/ （Wobcw聊天机器人）（⭐️~⭐️⭐️）
 - https://qachat.cc （Qachat）（⭐️⭐️⭐️）
 - https://ai.ls/（LS人工智能，需要登录）（⭐️~⭐️⭐️）
-
-1. 🚀🚀🚀 https://chatbot.theb.ai/ - 智能聊天机器人 
-2. 🚀🚀 https://poe.com/ - POE交易平台
-3. 🚀 https://chat9.yqcloud.top/ - 智能客服
-4. ...
-
-### 支持我
-![测试图片](https://via.placeholder.com/150x150)
-> 支持我，为了更长久的陪伴。
+- https://desk.im/ （DeskIM）（⭐️⭐️）
+- http://175.178.88.119/ （GPT-Sim）（⭐️⭐️）
+- http://www.tdchat.vip/ （TDChat）（⭐️⭐️）
+- https://xc.com/ （XC聊天机器人）（⭐️⭐️）
+- https://www.teach-anything.com/ （Teach Anything）（⭐️~⭐️⭐️）
+- https://chat.wuguokai.cn/s/chatgpt （Wuguokai聊天机器人）（⭐️~⭐️⭐️）
+- http://43.156.110.219:3002/ （BAAI聊天机器人）（⭐️~⭐️⭐️）
+- https://www.ftcl.store/ （FTCL Store）（⭐️~⭐️⭐️）
+- https://openprompt.co/ChatGPT （OpenPrompt ChatGPT）（⭐️~⭐️⭐️）
+- https://chat1.wuguokai.top/s/chatgpt （Wuguokai聊天机器人）（⭐️~⭐️⭐️）
+- https://gpt.getshare.net/ （ShareNet GPT）（⭐️~⭐️⭐️）
+- http://chat.livepo.top/ （Livepo聊天机器人）（⭐️~⭐️⭐️）
+- https://94gpt.com/ （94GPT）（⭐️~⭐️⭐️）
+- http://ai.jjzn.top/ （JJZN人工智能）（⭐️~⭐️⭐️）
+- https://ai.ci （Ai.ci）（⭐️~⭐️⭐️）
+- https://beta.character.ai/ （Character.AI Beta）（⭐️~⭐️⭐️）
 
 ### 有趣的站点
-😄: 有趣，😆: 很有趣，🤣: 爆笑推荐
-1. 😄 https://chatbot.theb.ai/
-2. 😆 https://poe.com/
-3. 🤣 https://chat9.yqcloud.top/
+- https://chat.qingting.work/ [Qingting聊天机器人] 🤖✨
+- https://zhoubaotong.com/zh/ [周宝通人工智能] 🧠✨
+- https://www.abab123.tk/ [Abab123] 🤡
+- https://chatplus.app/ [Chat+] 💬✨
+- http://zhimachat.com/ [芝麻聊天机器人] 🤖
+- https://www.aicodehelper.com/ [AI代码助手] 👨‍💻✨
+- https://ai-toolbox.codefuture.top/ [AI工具箱] 🧰✨
+- https://chilloutai.com/ [Chillout人工智能] 😌✨
+- https://harry-potter.openai-lab.com/ [哈利波特OpenAI实验室] 🧙‍♂️✨
+- https://wordstory.streamlit.app/ [WordStory] 📚✨
+- https://hotoke.ai/ [Hotoke人工智能] 🙏✨
+- https://docsgpt.arc53.com/ [DocsGPT] 📝✨
+- https://chatexcel.com/ [ChatExcel] 📊✨
+- https://typeset.io/ [Typeset.io] ✍️✨
+- https://b.jimmylv.cn/ [JimmyLv's Blog Chatbot] 📈
+- https://yiyan.baidu.com/welcome/ [百度一言] 💬
+- https://vrtalk.io/ [VRTalk] 🕶️
+- https://www.cluebenchmarks.com/clueai.html/ [CLUE AI] 🔍✨
+- https://open-gpt.app/ [Open-GPT] 🤖✨
+- https://chatdoc.com/ [Chatdoc] 🗃️
+- https://aicolors.co/ [AIColors] 🎨✨
+- https://ai.free-tools.cn/ [Free AI Tools] 💻✨
+- https://www.sqlkiller.com/ [SQL Killer] 💾✨
+- https://www.cursor.so/ [Cursor] 🖥️✨
+- https://www.deepl.com/zh/write/ [DeepL翻译器] 🌐
+- https://heyfriday.cn/ [HeyFriday] ⏰
+- https://promptperfect.jinaai.cn/ [PromptPerfect] 📝✨
+
